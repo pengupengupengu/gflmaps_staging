@@ -99,8 +99,12 @@ header > h1 {
   font-size: 4rem;
   margin-right: 10px;
 }
-header > div {
+header .textboxcontainer {
   display: inline-block;
+  margin: -5px 0;
+}
+header .textbox {
+  margin: 5px 0;
   border: 1px solid rgb(234, 234, 234);
   padding: 5px 10px;
   background-color: rgb(244, 196, 48);
