@@ -64,6 +64,7 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
+  font-size: .99vw;
   background-color: #333333;
   font-family: 'Noto Sans', 'Noto Sans SC', sans-serif;
   color: #EAEAEA;
